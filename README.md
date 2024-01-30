@@ -19,7 +19,7 @@
   ![Tableau](https://img.shields.io/badge/Tableau-Green?logo=tableau&logoColor=White&labelColor=yellow)
 
 - 💻 &nbsp;
-![Static Badge](https://img.shields.io/badge/PowerBI-Green?style=social&logo=powerbi&logoColor=White&labelColor=yellow)
+![Power BI](https://img.shields.io/badge/PowerBI-Green?style=social&logo=powerbi&logoColor=White&labelColor=yellow)
 
 - 🔧 &nbsp;
   ![MS Excel](https://img.shields.io/badge/Excel-Green?logo=Microsoft%20Excel&labelColor=red)
@@ -30,7 +30,7 @@
 
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  
   
 
 
