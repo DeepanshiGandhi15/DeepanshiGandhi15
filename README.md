@@ -55,7 +55,6 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/deepanshi-gandhi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Deepanshi%20Gandhi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Deepanshi Gandhi__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:depanshigandhi1223@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-depanshigandhi1223@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
