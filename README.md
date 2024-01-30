@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🤔 &nbsp; Passionate Data Analyst Turning Numbers into Actionable Insights.
+- 🎓 &nbsp; Exploring Technology to make Data Sensible.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
@@ -14,6 +14,13 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
+- 💻 &nbsp;
+  ![Tableau](https://img.shields.io/badge/Tableau-Green?logo=tableau&logoColor=White&labelColor=yellow)
+
+- 💻 &nbsp;
+![Static Badge](https://img.shields.io/badge/PowerBI-Green?style=social&logo=powerbi&logoColor=White&labelColor=yellow)
+
  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -23,7 +30,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
 - 🔧 &nbsp;
-  
+  ![MS Excel](https://img.shields.io/badge/Excel-Green?logo=Microsoft%20Excel&labelColor=red)
+
 - 🖥 &nbsp;
  
 
