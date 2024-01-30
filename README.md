@@ -14,17 +14,19 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+- 🛢 &nbsp;
+  ![Numpy](https://img.shields.io/badge/Numpy-Black?logo=numpy)
   
 - 🖥 &nbsp;
   ![Tableau](https://img.shields.io/badge/Tableau-Green?logo=tableau&logoColor=White&labelColor=yellow)
 
-- 💻 &nbsp;
+- 📱 &nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-Green?style=social&logo=powerbi&logoColor=White&labelColor=yellow)
 
 - 🔧 &nbsp;
   ![MS Excel](https://img.shields.io/badge/Excel-Green?logo=Microsoft%20Excel&labelColor=red)
 
- 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
