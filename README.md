@@ -6,9 +6,9 @@
 
 - 🤔 &nbsp; Passionate Data Analyst Turning Numbers into Actionable Insights.
 - 🎓 &nbsp; Exploring Technology to make Data Sensible.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 💼 &nbsp; Working as a Data Analyst Intern at CloudyMl.
+- 🌱 &nbsp; Learning more about Data Analysis, Data Cleaning and Visualization.
+- ✍️ &nbsp; Fond of writng SQL Queries.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -17,9 +17,12 @@
 
 - 🛢 &nbsp;
   ![Numpy](https://img.shields.io/badge/Numpy-Black?logo=numpy)
+
+- 🔍 &nbsp;
+  ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
   
 - 🖥 &nbsp;
-  ![Tableau](https://img.shields.io/badge/Tableau-Green?logo=tableau&logoColor=White&labelColor=yellow)
+ ![Tableau](https://img.shields.io/badge/Tableau-black?logo=tableau)
 
 - 📱 &nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-Green?style=social&logo=powerbi&logoColor=White&labelColor=yellow)
